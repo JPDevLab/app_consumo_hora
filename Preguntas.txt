@@ -1,0 +1,9 @@
+1. En la app o el Colab, observa la gráfica de "Consumo total vs. Hora del día". ¿El consumo es igual todo el día, o hay horas con más consumo que otras?
+
+2. Ejecuta la Regresión Lineal (hora → consumo). ¿El valor de R² es alto o bajo? ¿Por qué una sola línea recta tiene dificultad para explicar el consumo a lo largo del día?
+
+3. En K-Means, cambia el valor de k (número de clusters) en la app. ¿Qué le pasa a la inercia cuando k es muy bajo (por ejemplo 2) comparado con cuando es más alto (por ejemplo 6)?
+
+4. Compara el accuracy de KNN y SVM en la app. ¿Por qué ambos logran un porcentaje tan alto al predecir los niveles que encontró K-Means?
+
+5. ¿Qué diferencia hay entre K-Means y KNN? Aunque los dos nombres se parecen, ¿uno de los dos necesita etiquetas para funcionar y el otro no? ¿Cuál es cuál?
